@@ -57,7 +57,7 @@
         "wk:page":"Yucuaiqu%C3%ADn"
     },
     "wof:country":"SV",
-    "wof:geomhash":"05a37917250419321690df1bda5cfda7",
+    "wof:geomhash":"f49384daf7226288271667ea4e1ad46e",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -80,5 +80,5 @@
     -88.0,
     13.55
 ],
-  "geometry": {"coordinates":[-88.0,13.55],"type":"Point"}
+  "geometry": {"coordinates":[-88,13.55],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"San_Isidro%2C_Moraz%C3%A1n"
     },
     "wof:country":"SV",
-    "wof:geomhash":"de70eccb99909fdf3871b13795562450",
+    "wof:geomhash":"395160e80047b37629d285a165ee86b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -88.23333000000002,
     13.85
 ],
-  "geometry": {"coordinates":[-88.23333000000002,13.85],"type":"Point"}
+  "geometry": {"coordinates":[-88.23333,13.85],"type":"Point"}
 }

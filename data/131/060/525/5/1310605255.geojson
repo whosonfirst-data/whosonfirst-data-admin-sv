@@ -41,7 +41,7 @@
         "gn:id":3583539
     },
     "wof:country":"SV",
-    "wof:geomhash":"9e577ddd10312c5b74835cf9d87acfd9",
+    "wof:geomhash":"8dc837cd9902c1ad249c45b05cd86918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -89.71667,
     14.0
 ],
-  "geometry": {"coordinates":[-89.71666999999999,14.0],"type":"Point"}
+  "geometry": {"coordinates":[-89.71667,14],"type":"Point"}
 }

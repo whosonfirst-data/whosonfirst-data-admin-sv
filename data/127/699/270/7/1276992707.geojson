@@ -114,7 +114,7 @@
         "wk:page":"Santa_Rita%2C_Chalatenango"
     },
     "wof:country":"SV",
-    "wof:geomhash":"93f98d0723cc1d79461129f44ade0868",
+    "wof:geomhash":"cafeb25d82c80fb938939a3475fc8177",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,5 +140,5 @@
     -89.0,
     14.13333
 ],
-  "geometry": {"coordinates":[-89.0,14.13333],"type":"Point"}
+  "geometry": {"coordinates":[-89,14.13333],"type":"Point"}
 }

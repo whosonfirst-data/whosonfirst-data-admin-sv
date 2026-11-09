@@ -58,7 +58,7 @@
         "wk:page":"El_Carmen%2C_La_Uni%C3%B3n"
     },
     "wof:country":"SV",
-    "wof:geomhash":"e04119e149c7eb364dd817da1fddf836",
+    "wof:geomhash":"688c0e6003c38680203fc2544743a164",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,5 +84,5 @@
     -88.0,
     13.35472
 ],
-  "geometry": {"coordinates":[-88.0,13.35472],"type":"Point"}
+  "geometry": {"coordinates":[-88,13.35472],"type":"Point"}
 }

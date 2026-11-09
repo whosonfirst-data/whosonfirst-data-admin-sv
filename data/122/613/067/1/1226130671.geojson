@@ -49,7 +49,7 @@
         "wk:page":"Comecayo"
     },
     "wof:country":"SV",
-    "wof:geomhash":"4bb7509bee0e86094a3223c7662e8906",
+    "wof:geomhash":"a27b318ef37f74fac430bf0f7bcf2388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -89.6,
     14.0
 ],
-  "geometry": {"coordinates":[-89.59999999999999,14.0],"type":"Point"}
+  "geometry": {"coordinates":[-89.6,14],"type":"Point"}
 }

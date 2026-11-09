@@ -45,7 +45,7 @@
         "wk:page":"Nuevo_Ed%C3%A9n_de_San_Juan"
     },
     "wof:country":"SV",
-    "wof:geomhash":"b8c285cbc54d1a71bef676eaf0edf39a",
+    "wof:geomhash":"431f845a0a18d8716767822abd790193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -88.48333000000002,
     13.81667
 ],
-  "geometry": {"coordinates":[-88.48333000000002,13.81667],"type":"Point"}
+  "geometry": {"coordinates":[-88.48333,13.81667],"type":"Point"}
 }

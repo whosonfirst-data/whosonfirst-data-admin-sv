@@ -61,7 +61,7 @@
         "wk:page":"Santa_Isabel_Ishuat%C3%A1n"
     },
     "wof:country":"SV",
-    "wof:geomhash":"901377b97ff19fda08c755b5852657e8",
+    "wof:geomhash":"cc43b569f7861dd0fcbe58a161151ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,5 +87,5 @@
     -89.58528000000003,
     13.61
 ],
-  "geometry": {"coordinates":[-89.58528000000003,13.61],"type":"Point"}
+  "geometry": {"coordinates":[-89.58528,13.61],"type":"Point"}
 }

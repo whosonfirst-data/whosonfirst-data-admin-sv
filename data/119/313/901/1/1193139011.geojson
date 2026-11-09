@@ -48,7 +48,7 @@
         "wk:page":"Nombre_de_Jes%C3%BAs"
     },
     "wof:country":"SV",
-    "wof:geomhash":"ea0202bc8147e9f2a93b4cb87de25773",
+    "wof:geomhash":"51b8adf73036bc0d257e1c5b5375ac0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -88.73333000000002,
     14.0
 ],
-  "geometry": {"coordinates":[-88.73333000000002,14.0],"type":"Point"}
+  "geometry": {"coordinates":[-88.73333,14],"type":"Point"}
 }

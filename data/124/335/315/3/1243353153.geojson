@@ -84,7 +84,7 @@
         "wk:page":"San_Miguel_%28volcano%29"
     },
     "wof:country":"SV",
-    "wof:geomhash":"43f84b43536133670869e6cf60291a00",
+    "wof:geomhash":"a17618d9c689599d410a733ebb567d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,5 +110,5 @@
     -88.22721999999997,
     13.42833
 ],
-  "geometry": {"coordinates":[-88.22721999999997,13.42833],"type":"Point"}
+  "geometry": {"coordinates":[-88.22722,13.42833],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"El_Chupadero"
     },
     "wof:country":"SV",
-    "wof:geomhash":"dc5f8d683a118ed480d9515e5544e747",
+    "wof:geomhash":"b32e91406a2d8c2715afc079c0790238",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -88.98333000000002,
     14.23333
 ],
-  "geometry": {"coordinates":[-88.98333000000002,14.23333],"type":"Point"}
+  "geometry": {"coordinates":[-88.98333,14.23333],"type":"Point"}
 }

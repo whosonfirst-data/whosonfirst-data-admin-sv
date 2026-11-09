@@ -42,7 +42,7 @@
         "wk:page":"Quezalapa"
     },
     "wof:country":"SV",
-    "wof:geomhash":"2f876334a02fc00e0570d742e7036b0c",
+    "wof:geomhash":"973fd9c601c4be636de5e5dc67ae7fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -89.81416999999998,
     13.84861
 ],
-  "geometry": {"coordinates":[-89.81416999999998,13.84861],"type":"Point"}
+  "geometry": {"coordinates":[-89.81417,13.84861],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"San_Sim%C3%B3n%2C_El_Salvador"
     },
     "wof:country":"SV",
-    "wof:geomhash":"84aa50c2fa2a30a8cd0e5c20fa5d46c1",
+    "wof:geomhash":"5cc3c2a0c61e32f7448f877d11e848af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -88.23333000000002,
     13.83333
 ],
-  "geometry": {"coordinates":[-88.23333000000002,13.83333],"type":"Point"}
+  "geometry": {"coordinates":[-88.23333,13.83333],"type":"Point"}
 }

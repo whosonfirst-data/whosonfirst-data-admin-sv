@@ -57,7 +57,7 @@
         "wk:page":"San_Pedro_Perulap%C3%A1n"
     },
     "wof:country":"SV",
-    "wof:geomhash":"238033dd5bf08f4c3c1dc2e19e12c211",
+    "wof:geomhash":"f3d85a4fb1b6c22e80a49c81fad43efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -89.03889000000002,
     13.77333
 ],
-  "geometry": {"coordinates":[-89.03889000000002,13.77333],"type":"Point"}
+  "geometry": {"coordinates":[-89.03889,13.77333],"type":"Point"}
 }
