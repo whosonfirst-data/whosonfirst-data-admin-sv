@@ -204,12 +204,6 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh San Miguel"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u7c73\u683c\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u7c73\u683c\u723e\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u5723\u7c73\u683c\u5c14\u7701"
     ],
@@ -338,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1695884871,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Miguel",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

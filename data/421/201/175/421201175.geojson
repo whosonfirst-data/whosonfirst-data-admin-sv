@@ -156,12 +156,6 @@
     "name:war_x_preferred":[
         "San Miguel"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u7c73\u683c\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u7c73\u683c\u723e\u6cb3"
-    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -213,7 +207,7 @@
         }
     ],
     "wof:id":421201175,
-    "wof:lastmodified":1695886762,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Miguel",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
