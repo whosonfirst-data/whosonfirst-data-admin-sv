@@ -1,0 +1,74 @@
+{
+  "id": 9895057799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15,13.8,-88.15,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-88.15,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3584197: name \"Osicala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3584197"
+        },
+        {
+            "citation":"GeoNames populated place 3584197: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3584197"
+        },
+        {
+            "citation":"GeoNames populated place 3584197: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3584197"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694881 (Osicala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677173,
+        102191575,
+        1108694881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584197
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"824647a6a7eda0304c772065f0ad40ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694881,
+            "locality_id":9895057799,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":9895057799,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Osicala",
+    "wof:parent_id":1108694881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15,
+    13.8,
+    -88.15,
+    13.8
+],
+  "geometry": {"coordinates":[-88.15,13.8],"type":"Point"}
+}

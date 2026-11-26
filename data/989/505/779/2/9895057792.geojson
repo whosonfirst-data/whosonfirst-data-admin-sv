@@ -1,0 +1,74 @@
+{
+  "id": 9895057792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58111,14.19667,-89.58111,14.19667",
+    "geom:latitude":14.19667,
+    "geom:longitude":-89.58111,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583838: name \"San Antonio Pajonal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583838"
+        },
+        {
+            "citation":"GeoNames populated place 3583838: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583838"
+        },
+        {
+            "citation":"GeoNames populated place 3583838: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583838"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694919 (San Antonio Pajonal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677195,
+        102191575,
+        1108694919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583838
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"631c6ec248afed5f3ee1c11ff8dfd11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694919,
+            "locality_id":9895057792,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":9895057792,
+    "wof:lastmodified":1795735100,
+    "wof:name":"San Antonio Pajonal",
+    "wof:parent_id":1108694919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58111,
+    14.19667,
+    -89.58111,
+    14.19667
+],
+  "geometry": {"coordinates":[-89.58111,14.19667],"type":"Point"}
+}

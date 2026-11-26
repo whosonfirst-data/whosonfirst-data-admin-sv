@@ -1,0 +1,74 @@
+{
+  "id": 9895057756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23333,13.91667,-88.23333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-88.23333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3582913: name \"Torola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3582913"
+        },
+        {
+            "citation":"GeoNames populated place 3582913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3582913"
+        },
+        {
+            "citation":"GeoNames populated place 3582913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3582913"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695085 (Torola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677173,
+        102191575,
+        1108695085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582913
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f9404e8b200676c38d0569adea764672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695085,
+            "locality_id":9895057756,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":9895057756,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Torola",
+    "wof:parent_id":1108695085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23333,
+    13.91667,
+    -88.23333,
+    13.91667
+],
+  "geometry": {"coordinates":[-88.23333,13.91667],"type":"Point"}
+}

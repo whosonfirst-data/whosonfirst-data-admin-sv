@@ -1,0 +1,74 @@
+{
+  "id": 9895057785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09639,13.60556,-89.09639,13.60556",
+    "geom:latitude":13.60556,
+    "geom:longitude":-89.09639,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583729: name \"San Francisco Chinameca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583729"
+        },
+        {
+            "citation":"GeoNames populated place 3583729: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583729"
+        },
+        {
+            "citation":"GeoNames populated place 3583729: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583729"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191219 (San Francisco Chinameca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677155,
+        102191575,
+        421191219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583729
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7fdd9f19b1248ef33b5989dc47780410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191219,
+            "locality_id":9895057785,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":9895057785,
+    "wof:lastmodified":1795735100,
+    "wof:name":"San Francisco Chinameca",
+    "wof:parent_id":421191219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09639,
+    13.60556,
+    -89.09639,
+    13.60556
+],
+  "geometry": {"coordinates":[-89.09639,13.60556],"type":"Point"}
+}

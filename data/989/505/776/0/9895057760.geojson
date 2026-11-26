@@ -1,0 +1,74 @@
+{
+  "id": 9895057760,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.9,13.85,-88.9,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-88.9,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3582994: name \"Tejutepeque\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3582994"
+        },
+        {
+            "citation":"GeoNames populated place 3582994: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3582994"
+        },
+        {
+            "citation":"GeoNames populated place 3582994: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3582994"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421190525 (Tejutepeque), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677141,
+        102191575,
+        421190525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582994
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f773f60649a3a80b0b911f505c170591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190525,
+            "locality_id":9895057760,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":9895057760,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Tejutepeque",
+    "wof:parent_id":421190525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.9,
+    13.85,
+    -88.9,
+    13.85
+],
+  "geometry": {"coordinates":[-88.9,13.85],"type":"Point"}
+}

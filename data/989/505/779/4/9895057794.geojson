@@ -1,0 +1,74 @@
+{
+  "id": 9895057794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.9,14,-88.9,14",
+    "geom:latitude":14.0,
+    "geom:longitude":-88.9,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583843: name \"San Antonio Los Ranchos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583843"
+        },
+        {
+            "citation":"GeoNames populated place 3583843: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583843"
+        },
+        {
+            "citation":"GeoNames populated place 3583843: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583843"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694915 (San Antonio Los Ranchos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677193,
+        102191575,
+        1108694915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583843
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0cf72c92f02c8a1825d5013f10ee7dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694915,
+            "locality_id":9895057794,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":9895057794,
+    "wof:lastmodified":1795735100,
+    "wof:name":"San Antonio Los Ranchos",
+    "wof:parent_id":1108694915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.9,
+    14.0,
+    -88.9,
+    14.0
+],
+  "geometry": {"coordinates":[-88.9,14],"type":"Point"}
+}

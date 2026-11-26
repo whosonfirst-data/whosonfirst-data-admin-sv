@@ -1,0 +1,74 @@
+{
+  "id": 9895057802,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.71278,13.70361,-89.71278,13.70361",
+    "geom:latitude":13.70361,
+    "geom:longitude":-89.71278,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3584295: name \"Nahulingo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3584295"
+        },
+        {
+            "citation":"GeoNames populated place 3584295: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3584295"
+        },
+        {
+            "citation":"GeoNames populated place 3584295: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3584295"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694857 (Nahulingo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677159,
+        102191575,
+        1108694857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584295
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"75c1718ee93d6c69becfea3d7828e38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694857,
+            "locality_id":9895057802,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":9895057802,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Nahulingo",
+    "wof:parent_id":1108694857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.71278,
+    13.70361,
+    -89.71278,
+    13.70361
+],
+  "geometry": {"coordinates":[-89.71278,13.70361],"type":"Point"}
+}

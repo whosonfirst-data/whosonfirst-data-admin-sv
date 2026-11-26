@@ -1,0 +1,74 @@
+{
+  "id": 9895057761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.78333,13.53333,-88.78333,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-88.78333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583010: name \"Tecoluca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583010"
+        },
+        {
+            "citation":"GeoNames populated place 3583010: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583010"
+        },
+        {
+            "citation":"GeoNames populated place 3583010: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583010"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695077 (Tecoluca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677185,
+        102191575,
+        1108695077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583010
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9bc7149f8c274f20ea18e5b6cef9bffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695077,
+            "locality_id":9895057761,
+            "region_id":85677185
+        }
+    ],
+    "wof:id":9895057761,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Tecoluca",
+    "wof:parent_id":1108695077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.78333,
+    13.53333,
+    -88.78333,
+    13.53333
+],
+  "geometry": {"coordinates":[-88.78333,13.53333],"type":"Point"}
+}

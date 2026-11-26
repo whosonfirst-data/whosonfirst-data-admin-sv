@@ -1,0 +1,74 @@
+{
+  "id": 9895057808,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,14.1,-88.88333,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-88.88333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3584790: name \"Las Vueltas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3584790"
+        },
+        {
+            "citation":"GeoNames populated place 3584790: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3584790"
+        },
+        {
+            "citation":"GeoNames populated place 3584790: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3584790"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694833 (Las Vueltas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677193,
+        102191575,
+        1108694833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584790
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"291e37b485771d2f806f4f392437ccb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694833,
+            "locality_id":9895057808,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":9895057808,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Las Vueltas",
+    "wof:parent_id":1108694833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    14.1,
+    -88.88333,
+    14.1
+],
+  "geometry": {"coordinates":[-88.88333,14.1],"type":"Point"}
+}

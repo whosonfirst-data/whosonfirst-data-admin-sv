@@ -1,0 +1,74 @@
+{
+  "id": 9895057815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.65,13.86667,-88.65,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-88.65,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3585696: name \"Guacotecti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3585696"
+        },
+        {
+            "citation":"GeoNames populated place 3585696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3585696"
+        },
+        {
+            "citation":"GeoNames populated place 3585696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3585696"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694797 (Guacotecti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677141,
+        102191575,
+        1108694797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585696
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"960ff16185c22ea996d477e13951df6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694797,
+            "locality_id":9895057815,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":9895057815,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Guacotecti",
+    "wof:parent_id":1108694797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.65,
+    13.86667,
+    -88.65,
+    13.86667
+],
+  "geometry": {"coordinates":[-88.65,13.86667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.42028,13.59833,-89.42028,13.59833",
+    "geom:latitude":13.59833,
+    "geom:longitude":-89.42028,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583041: name \"Tamanique\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583041"
+        },
+        {
+            "citation":"GeoNames populated place 3583041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583041"
+        },
+        {
+            "citation":"GeoNames populated place 3583041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583041"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695071 (Tamanique), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677151,
+        102191575,
+        1108695071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583041
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e77d7a23a6cc23a70d574a1141936c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695071,
+            "locality_id":9895057763,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":9895057763,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Tamanique",
+    "wof:parent_id":1108695071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.42028,
+    13.59833,
+    -89.42028,
+    13.59833
+],
+  "geometry": {"coordinates":[-89.42028,13.59833],"type":"Point"}
+}

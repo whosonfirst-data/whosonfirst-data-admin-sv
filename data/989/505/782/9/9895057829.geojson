@@ -1,0 +1,74 @@
+{
+  "id": 9895057829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.3,13.85,-88.3,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-88.3,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3587144: name \"Carolina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3587144"
+        },
+        {
+            "citation":"GeoNames populated place 3587144: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3587144"
+        },
+        {
+            "citation":"GeoNames populated place 3587144: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3587144"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694735 (Carolina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677177,
+        102191575,
+        1108694735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587144
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1907cdf4ee2e8f14f3bcbf78a4f36db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694735,
+            "locality_id":9895057829,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":9895057829,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Carolina",
+    "wof:parent_id":1108694735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.3,
+    13.85,
+    -88.3,
+    13.85
+],
+  "geometry": {"coordinates":[-88.3,13.85],"type":"Point"}
+}

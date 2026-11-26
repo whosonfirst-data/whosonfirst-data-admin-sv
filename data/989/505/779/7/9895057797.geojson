@@ -1,0 +1,74 @@
+{
+  "id": 9895057797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23333,13.51667,-88.23333,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-88.23333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583989: name \"Quelepa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583989"
+        },
+        {
+            "citation":"GeoNames populated place 3583989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583989"
+        },
+        {
+            "citation":"GeoNames populated place 3583989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583989"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694899 (Quelepa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677177,
+        102191575,
+        1108694899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583989
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cc851b70794f4f4d21572fad2aa749b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694899,
+            "locality_id":9895057797,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":9895057797,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Quelepa",
+    "wof:parent_id":1108694899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23333,
+    13.51667,
+    -88.23333,
+    13.51667
+],
+  "geometry": {"coordinates":[-88.23333,13.51667],"type":"Point"}
+}
