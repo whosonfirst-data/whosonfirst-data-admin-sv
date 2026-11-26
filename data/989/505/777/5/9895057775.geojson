@@ -1,0 +1,74 @@
+{
+  "id": 9895057775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,13.6,-88.93333,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.93333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583404: name \"San Pedro Nonualco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583404"
+        },
+        {
+            "citation":"GeoNames populated place 3583404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583404"
+        },
+        {
+            "citation":"GeoNames populated place 3583404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583404"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694999 (San Pedro Nonualco), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677155,
+        102191575,
+        1108694999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583404
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"fb6652fea274900609d3b2bdb1009e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694999,
+            "locality_id":9895057775,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":9895057775,
+    "wof:lastmodified":1795735100,
+    "wof:name":"San Pedro Nonualco",
+    "wof:parent_id":1108694999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    13.6,
+    -88.93333,
+    13.6
+],
+  "geometry": {"coordinates":[-88.93333,13.6],"type":"Point"}
+}

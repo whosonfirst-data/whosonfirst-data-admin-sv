@@ -1,0 +1,74 @@
+{
+  "id": 9895057790,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.81667,13.65,-88.81667,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-88.81667,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3583804: name \"San Cayetano Istepeque\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3583804"
+        },
+        {
+            "citation":"GeoNames populated place 3583804: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3583804"
+        },
+        {
+            "citation":"GeoNames populated place 3583804: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3583804"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694929 (San Cayetano Istepeque), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677185,
+        102191575,
+        1108694929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583804
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9f448645de5204d3f00c2382c023d641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694929,
+            "locality_id":9895057790,
+            "region_id":85677185
+        }
+    ],
+    "wof:id":9895057790,
+    "wof:lastmodified":1795735100,
+    "wof:name":"San Cayetano Istepeque",
+    "wof:parent_id":1108694929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.81667,
+    13.65,
+    -88.81667,
+    13.65
+],
+  "geometry": {"coordinates":[-88.81667,13.65],"type":"Point"}
+}

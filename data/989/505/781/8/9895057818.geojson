@@ -1,0 +1,74 @@
+{
+  "id": 9895057818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.80056,13.66889,-87.80056,13.66889",
+    "geom:latitude":13.66889,
+    "geom:longitude":-87.80056,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3585966: name \"El Sauce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3585966"
+        },
+        {
+            "citation":"GeoNames populated place 3585966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3585966"
+        },
+        {
+            "citation":"GeoNames populated place 3585966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3585966"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694793 (El Sauce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677169,
+        102191575,
+        1108694793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585966
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0a4142193ee68717cae2b107a630ed36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694793,
+            "locality_id":9895057818,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":9895057818,
+    "wof:lastmodified":1795735100,
+    "wof:name":"El Sauce",
+    "wof:parent_id":1108694793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.80056,
+    13.66889,
+    -87.80056,
+    13.66889
+],
+  "geometry": {"coordinates":[-87.80056,13.66889],"type":"Point"}
+}

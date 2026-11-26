@@ -1,0 +1,74 @@
+{
+  "id": 9895057801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.45,13.6,-88.45,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.45,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3584262: name \"Nueva Granada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3584262"
+        },
+        {
+            "citation":"GeoNames populated place 3584262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3584262"
+        },
+        {
+            "citation":"GeoNames populated place 3584262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3584262"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694863 (Nueva Granada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677187,
+        102191575,
+        1108694863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584262
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7ae9b0b752fcc18d9005293c7e808bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694863,
+            "locality_id":9895057801,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":9895057801,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Nueva Granada",
+    "wof:parent_id":1108694863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.45,
+    13.6,
+    -88.45,
+    13.6
+],
+  "geometry": {"coordinates":[-88.45,13.6],"type":"Point"}
+}

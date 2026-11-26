@@ -1,0 +1,74 @@
+{
+  "id": 9895057824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.56667,13.78333,-88.56667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-88.56667,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3586807: name \"Dolores\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3586807"
+        },
+        {
+            "citation":"GeoNames populated place 3586807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3586807"
+        },
+        {
+            "citation":"GeoNames populated place 3586807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3586807"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421197065 (Dolores), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677141,
+        102191575,
+        421197065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586807
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9e41fcdfba99a3f8a9339f87e730a9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421197065,
+            "locality_id":9895057824,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":9895057824,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Dolores",
+    "wof:parent_id":421197065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.56667,
+    13.78333,
+    -88.56667,
+    13.78333
+],
+  "geometry": {"coordinates":[-88.56667,13.78333],"type":"Point"}
+}

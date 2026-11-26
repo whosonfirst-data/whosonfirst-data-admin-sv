@@ -1,0 +1,74 @@
+{
+  "id": 9895057830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09333,13.61528,-89.09333,13.61528",
+    "geom:latitude":13.61528,
+    "geom:longitude":-89.09333,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3587168: name \"Candelaria\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3587168"
+        },
+        {
+            "citation":"GeoNames populated place 3587168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3587168"
+        },
+        {
+            "citation":"GeoNames populated place 3587168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3587168"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191219 (San Francisco Chinameca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677155,
+        102191575,
+        421191219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587168
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"12a6730e419d6d3f12df0de18de1de6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191219,
+            "locality_id":9895057830,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":9895057830,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Candelaria",
+    "wof:parent_id":421191219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09333,
+    13.61528,
+    -89.09333,
+    13.61528
+],
+  "geometry": {"coordinates":[-89.09333,13.61528],"type":"Point"}
+}

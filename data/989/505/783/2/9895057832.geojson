@@ -1,0 +1,74 @@
+{
+  "id": 9895057832,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.75,14.08333,-88.75,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-88.75,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3587336: name \"Arcatao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3587336"
+        },
+        {
+            "citation":"GeoNames populated place 3587336: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3587336"
+        },
+        {
+            "citation":"GeoNames populated place 3587336: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3587336"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694717 (Arcatao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677193,
+        102191575,
+        1108694717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587336
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"72c47e55dd49d2843e32a8e890923888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694717,
+            "locality_id":9895057832,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":9895057832,
+    "wof:lastmodified":1795735100,
+    "wof:name":"Arcatao",
+    "wof:parent_id":1108694717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.75,
+    14.08333,
+    -88.75,
+    14.08333
+],
+  "geometry": {"coordinates":[-88.75,14.08333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.85,13.53278,-87.85,13.53278",
+    "geom:latitude":13.53278,
+    "geom:longitude":-87.85,
+    "iso:country":"SV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3586493: name \"El Divisadero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3586493"
+        },
+        {
+            "citation":"GeoNames populated place 3586493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3586493"
+        },
+        {
+            "citation":"GeoNames populated place 3586493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3586493"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108694891 (Pasaquina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545,
+        85677169,
+        102191575,
+        1108694891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586493
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0014ddf1f089f32b43767b2617b776a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694891,
+            "locality_id":9895057822,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":9895057822,
+    "wof:lastmodified":1795735100,
+    "wof:name":"El Divisadero",
+    "wof:parent_id":1108694891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.85,
+    13.53278,
+    -87.85,
+    13.53278
+],
+  "geometry": {"coordinates":[-87.85,13.53278],"type":"Point"}
+}
